@@ -36,7 +36,7 @@ I enjoy developing robotic systems that bring **perception, planning, and contro
 ### Chief Autonomous | Formula Student Team Delft
 *2026 – Present*
 
-Leading the development and integration of the autonomous software stack for a driverless race car, spanning **perception, state estimation, motion planning, and vehicle control**.
+Leading the development and integration of the autonomous software stack for a driverless race car, spanning **perception, state estimation, motion planning, vehicle control and simulation**.
 
 ### Research | Politecnico di Milano
 *2024 – 2025*
