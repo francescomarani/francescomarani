@@ -41,7 +41,7 @@ Leading the development and integration of the autonomous software stack for a d
 ### Research | Politecnico di Milano
 *2024 – 2025*
 
-Worked on **data-driven predictive control** for a ball-balancing Stewart platform, under the supervision of Prof. Maria Prandini.
+Worked on **data-driven predictive control** for a ball-balancing Stewart platform.
 
 ## ⚙️ Tech Stack & Tools
 
