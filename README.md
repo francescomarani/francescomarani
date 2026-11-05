@@ -2,8 +2,7 @@
 
 # Hi, I'm Francesco Marani!
 
-**Robotics · Autonomous Driving · Motion Planning & Control**
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1500&center=true&vCenter=true&width=850&height=50&lines=Robotics+%C2%B7+Autonomous+Driving+%C2%B7+Systems+%26+Control)](https://git.io/typing-svg)
 <br>
 
 MSc Robotics @ **TU Delft**  
