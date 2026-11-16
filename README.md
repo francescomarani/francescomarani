@@ -26,7 +26,7 @@ Chief Autonomous @ **Formula Student Team Delft**
 
 ## 👨‍💻 About Me
 
-I'm an **MSc Robotics student at TU Delft**, with a background in Automation and Control Engineering.
+I'm an **MSc Robotics** student at TU Delft, with a background in **Automation and Control** Engineering.
 
 I enjoy developing robotic systems that bring **perception, planning, and control** together, with a particular interest in autonomous driving, model predictive control, robot manipulation, and learning-based robotics.
 
