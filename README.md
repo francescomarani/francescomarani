@@ -7,7 +7,7 @@
 
 MSc Robotics @ **TU Delft**  
 BSc Automation Engineering @ **Politecnico di Milano**  
-Chief Autonomous @ **Formula Student Team Delft**
+Chief Autonomous & Controls @ **Formula Student Team Delft**
 
 <br>
 
